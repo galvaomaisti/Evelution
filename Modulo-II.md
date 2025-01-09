@@ -6,4 +6,4 @@
 
 - **Posicionando elementos com Flexbox em CSS(ok)**
 
-- **Desafio de projeto( => )**
+- **Desafio de projeto(ok)**
