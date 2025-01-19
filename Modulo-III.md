@@ -1,7 +1,7 @@
 # Módulo III - Javascript
 
-- **Introdução ao Javascript(  )**
-- **Sintaxe e Operadores(  )**
+- **Introdução ao Javascript(ok)**
+- **Sintaxe e Operadores(ok)**
 - **Variáveis e Tipos(  )**
 - **Funçoes(  )**
 - **Coleções(  )**
