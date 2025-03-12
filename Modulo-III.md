@@ -2,10 +2,10 @@
 
 - **Introdução ao Javascript(ok)**
 - **Sintaxe e Operadores(ok)**
-- **Variáveis e Tipos(  )**
-- **Funçoes(  )**
-- **Coleções(  )**
-- **Map, Filter e Reduce(  )**
+- **Variáveis e Tipos( ok )**
+- **Funçoes( ok )**
+- **Coleções( ok )**
+- **Map, Filter e Reduce( ok )**
 - **Debugging e Error Handing(  )**
 - **Javascript Assíncrono(  )**
 - **Orientação a Objetos(  )**
